@@ -24,7 +24,7 @@ This is one of the red flags behind our assessment that CScript is heavily AI-ge
 
 Trying to replicate K-Script's concepts is one thing. Understanding the technology behind them is apparently another.
 
-The CScript startup check shown below looks for a feature named `JinxRebound_about`.
+The CScript startup check shown below looks for a feature named `JinxRebound_about`. But Hey according to Corpen nothing here is Skidded from anyone else, right?????
 
 ![CScript startup code looking up JinxRebound_about](./image.png)
 
